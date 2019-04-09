@@ -22,6 +22,10 @@ function whileLoop(number){
   }
   return 'done';
 }
+function incrementVariable() {
+  i = i + 1;
+  return i;
+}
 
 function doWhileLoop(integer){
   
